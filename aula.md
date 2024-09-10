@@ -16,8 +16,22 @@ Sequência de passos lógica e finita para resolução de um problema.
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
-# Fases da resolução de um problema
+## Fases da resolução de um problema
 
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+## Escopos e variáveis
+
+Variáveis globais e locais
+Cosntantes
+
+## Tipos de dados
+
+Strings (textos): "" '' ``
+Number: 2 1.5
+Function
+
+## Operadores
+Operadores de atribuição de valor =
