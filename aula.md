@@ -29,9 +29,26 @@ Cosntantes
 
 ## Tipos de dados
 
-Strings (textos): "" '' ``
-Number: 2 1.5
-Function
+- Strings (textos): "" '' ``
+- Number: 2 1.5
+- Boolean: true, false
+
+### Array
+
+Uma lista que contém qualquer tipo de dado
+
+### Objeto
+
+- Atributos e métodos
+- Criação e manipulação de objetos
+- Acesso e propriedades de objetos
+
+### Functions
+
+- criar, passar argumento
+- execitar
+- arrow function / named function
 
 ## Operadores
 Operadores de atribuição de valor =
+Operadores de concatenação de valor +
