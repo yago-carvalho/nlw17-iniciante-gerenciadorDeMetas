@@ -16,13 +16,13 @@ Sequência de passos lógica e finita para resolução de um problema.
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
-## Fases da resolução de um problema
+# Fases da resolução de um problema
 
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
 
-## Escopos e variáveis
+# Escopos e variáveis
 
 Variáveis globais e locais
 Cosntantes
@@ -33,33 +33,35 @@ Cosntantes
 - Number: 2 1.5
 - Boolean: true, false
 
-### Array
+# Array
 
 Uma lista que contém qualquer tipo de dado
 
-### Objeto
+# Objeto
 
 - Atributos e métodos
 - Criação e manipulação de objetos
 - Acesso e propriedades de objetos
 
-### Functions
+# Functions
 
 - criar, passar argumento
 - execitar
 - arrow function / named function
 
-### Operadores
-Operadores de atribuição de valor =
-Operadores de concatenação de valor +
+# Operadores
+- Operadores de atribuição de valor =
+- Operadores de concatenação de valor +
+- Operadores de comparação: == != <= >= < >
 
-### Estrutura de repetição
+## Estrutura de repetição
 
 - While
 
 ### Condicionais
 
 - Switch
+- if/else
 
 ## Módulos em Node.js:
 
