@@ -60,3 +60,12 @@ Operadores de concatenação de valor +
 ### Condicionais
 
 - Switch
+
+## Módulos em Node.js:
+
+- Importação de módulos (require, CommonJS)
+- Biblioteca 'inquire' para criar prompts interativos
+
+## Programação assíncrona e Promisses:
+
+- Uso de função assíncronas (async/await)
