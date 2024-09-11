@@ -49,6 +49,10 @@ Uma lista que contém qualquer tipo de dado
 - execitar
 - arrow function / named function
 
-## Operadores
+### Operadores
 Operadores de atribuição de valor =
 Operadores de concatenação de valor +
+
+### Estrutura de repetição
+
+- While
