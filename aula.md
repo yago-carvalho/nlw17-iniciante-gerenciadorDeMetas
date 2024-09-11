@@ -56,3 +56,7 @@ Operadores de concatenação de valor +
 ### Estrutura de repetição
 
 - While
+
+### Condicionais
+
+- Switch
