@@ -33,9 +33,10 @@ Cosntantes
 - Number: 2 1.5
 - Boolean: true, false
 
-# Array
+# Arrays:
 
-Uma lista que contém qualquer tipo de dado
+- Uma lista que contém qualquer tipo de dado
+- Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)-> Toda HOF irá rodar uma função.
 
 # Objeto
 
@@ -53,6 +54,7 @@ Uma lista que contém qualquer tipo de dado
 - Operadores de atribuição de valor =
 - Operadores de concatenação de valor +
 - Operadores de comparação: == != <= >= < >
+- Spread operator: ...
 
 ## Estrutura de repetição
 
