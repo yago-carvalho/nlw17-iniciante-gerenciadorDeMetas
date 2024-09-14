@@ -69,6 +69,14 @@ Cosntantes
 
 - Importação de módulos (require, CommonJS)
 - Biblioteca 'inquire' para criar prompts interativos
+- FS (File System)
+
+## JSON
+
+- Javascript Object Notation (.json)
+- JSON.parse(): transforma de JSON para JS
+- JSON.stringfy(): tranforma de JS para JSON
+
 
 ## Programação assíncrona e Promisses:
 
